@@ -1,6 +1,6 @@
-# mmg_app
+# Smart Agzu
 
-A new Flutter project.
+Mobile Application for Automated Gas Station Monitoring
 
 ## Getting Started
 
